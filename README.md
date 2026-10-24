@@ -46,16 +46,16 @@ operador@spectrum.com password: Operador1234
 ## 6. Screenshots
 
 ### Splashscreen
-![Splash](screenshots/01-splash.png)
+![Splash](<img width="575" height="1192" alt="01-splash" src="https://github.com/user-attachments/assets/ee8eb1a0-92b2-4175-b56e-aadc0a3adce4" />)
 
 ### Autenticación
-![Login](screenshots/02-login.png)
-![Registro](screenshots/03-registro.png)
+![Login](<img width="575" height="1192" alt="02-login" src="https://github.com/user-attachments/assets/a8bde65c-ac67-47a9-90a8-da8096c335be" />)
+![Registro](<img width="575" height="1192" alt="03-registro" src="https://github.com/user-attachments/assets/5bf4d8a7-7ffd-44ee-9a82-8252a0850836" />)
 
 ### Dashboards
-![Dashboard Admin](screenshots/04-dashboard-admin.png)
-![Dashboard Cliente](screenshots/05-dashboard-cliente.png)
-![Dashboard Operador](screenshots/06-dashboard-operador.png)
+![Dashboard Admin](<img width="720" height="1488" alt="04-dashboard-admin" src="https://github.com/user-attachments/assets/09af1135-7008-4bbe-8b4a-fa19d08f6240" />)
+![Dashboard Cliente(<img width="575" height="1192" alt="05-dashboard-cliente" src="https://github.com/user-attachments/assets/1b92a861-8cfe-4f53-afbc-992cec275dca" />)
+![Dashboard Operador](<img width="720" height="1488" alt="06-dashboard-operador" src="https://github.com/user-attachments/assets/f2a9e0ad-84f5-4d3c-af36-0f5737c008fa" />)
 
 ### Listas
 ![Lista principal](screenshots/07-lista-principal.png)
