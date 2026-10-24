@@ -46,28 +46,40 @@ operador@spectrum.com password: Operador1234
 ## 6. Screenshots
 
 ### Splashscreen
-![Splash](<img width="575" height="1192" alt="01-splash" src="https://github.com/user-attachments/assets/ee8eb1a0-92b2-4175-b56e-aadc0a3adce4" />)
+(<img width="575" height="1192" alt="01-splash" src="https://github.com/user-attachments/assets/8ccac50b-624b-4e50-a9b0-e99252f30fab" />
+)
 
 ### Autenticación
-![Login](<img width="575" height="1192" alt="02-login" src="https://github.com/user-attachments/assets/a8bde65c-ac67-47a9-90a8-da8096c335be" />)
-![Registro](<img width="575" height="1192" alt="03-registro" src="https://github.com/user-attachments/assets/5bf4d8a7-7ffd-44ee-9a82-8252a0850836" />)
+(<img width="575" height="1192" alt="02-login" src="https://github.com/user-attachments/assets/e24ba17f-b044-4159-af5d-4416d7f6e3bc" />)
+
+(<img width="575" height="1192" alt="03-registro" src="https://github.com/user-attachments/assets/1c813c9d-68b4-43a3-ae9e-4de4026354e0" />)
 
 ### Dashboards
-![Dashboard Admin](<img width="720" height="1488" alt="04-dashboard-admin" src="https://github.com/user-attachments/assets/09af1135-7008-4bbe-8b4a-fa19d08f6240" />)
-![Dashboard Cliente(<img width="575" height="1192" alt="05-dashboard-cliente" src="https://github.com/user-attachments/assets/1b92a861-8cfe-4f53-afbc-992cec275dca" />)
-![Dashboard Operador](<img width="720" height="1488" alt="06-dashboard-operador" src="https://github.com/user-attachments/assets/f2a9e0ad-84f5-4d3c-af36-0f5737c008fa" />)
+(<img width="720" height="1488" alt="04-dashboard-admin" src="https://github.com/user-attachments/assets/f88defa1-041c-425e-95b0-4a36448ed552" />)
+
+(<img width="575" height="1192" alt="05-dashboard-cliente" src="https://github.com/user-attachments/assets/1b92a861-8cfe-4f53-afbc-992cec275dca" />)
+
+(<img width="720" height="1488" alt="06-dashboard-operador" src="https://github.com/user-attachments/assets/f2a9e0ad-84f5-4d3c-af36-0f5737c008fa" />)
 
 ### Listas
-![Lista principal](screenshots/07-lista-principal.png)
-![Lista detalle](screenshots/08-lista-detalle.png)
-![Estado vacío](screenshots/09-lista-vacia.png)
-![Lista Administrador: trivias publicadas](screenshots/15-lista-trivias-admin.png)
+<img width="575" height="1192" alt="07-lista-principal" src="https://github.com/user-attachments/assets/38751d62-8cf3-420f-8cbd-4db8d7deb93e" />
+
+<img width="575" height="1192" alt="08-lista-detalle" src="https://github.com/user-attachments/assets/2423aef9-b47e-45f5-a58e-aab889f7d39e" />
+
+<img width="720" height="1488" alt="09-lista-vacia" src="https://github.com/user-attachments/assets/24ee4b74-130f-44ed-93dd-5dafb55232fe" />
+
+<img width="720" height="1488" alt="15-lista-trivias-admin" src="https://github.com/user-attachments/assets/7d509476-12ce-4735-804c-33e14404158b" />
 
 ### Formularios
-![Formulario dominio (Cliente: preferencias musicales)](screenshots/10-formulario.png)
-![Formulario Administrador: nueva trivia](screenshots/13-formulario-admin.png)
-![Formulario Operador: revisar reporte](screenshots/14-formulario-operador.png)
+<img width="575" height="1192" alt="10-formulario" src="https://github.com/user-attachments/assets/44eae0bd-e242-4cb8-bf27-1c0dcc2d4f10" />
+
+<img width="720" height="1488" alt="14-formulario-operador" src="https://github.com/user-attachments/assets/8ecf1c69-13b2-44dc-bae6-3060142e4bf6" />
+
+<img width="720" height="1488" alt="13-formulario-admin" src="https://github.com/user-attachments/assets/2b7a8c17-4070-4afa-b8d5-d7681c625c21" />
+
 
 ### Evidencia funcional
-![Foto equipo](screenshots/11-foto-equipo.png)
-![Navegación](screenshots/12-navegacion.png)
+<img width="575" height="1192" alt="12-navegacion" src="https://github.com/user-attachments/assets/180c3f93-e408-4c2c-b4c3-26e3501d6ae5" />
+
+<img width="625" height="1244" alt="11-foto-equipo" src="https://github.com/user-attachments/assets/ad03178a-d44d-49b2-922a-679b68491be1" />
+
