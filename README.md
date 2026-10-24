@@ -1,29 +1,73 @@
-# spectrum
-<img width="575" height="1280" alt="WhatsApp Image 2026-10-24 at 1 20 38 PM (2)" src="https://github.com/user-attachments/assets/90570183-3105-4358-8794-a0550f838d6b" />
-<img width="575" height="1280" alt="WhatsApp Image 2026-10-24 at 1 20 38 PM (1)" src="https://github.com/user-attachments/assets/4162cfdd-19d4-4ee0-8899-96e7f15b5e0b" />
-<img width="575" height="1280" alt="WhatsApp Image 2026-10-24 at 1 20 37 PM" src="https://github.com/user-attachments/assets/1ac6c924-efa6-4867-be4a-b95b43a87528" />
-<img width="575" height="1280" alt="WhatsApp Image 2026-10-24 at 1 20 36 PM" src="https://github.com/user-attachments/assets/a6f8e7e9-1033-443b-8b1d-19d17b34b3b3" />
-<img width="575" height="1280" alt="WhatsApp Image 2026-10-24 at 1 20 36 PM (1)" src="https://github.com/user-attachments/assets/660389b7-0180-4685-b294-696f351ba3d3" />
-<img width="575" height="1280" alt="WhatsApp Image 2026-10-24 at 1 20 34 PM" src="https://github.com/user-attachments/assets/ef82290b-746f-4c3a-9983-87d5632eabbe" />
-<img width="575" height="1280" alt="WhatsApp Image 2026-10-24 at 1 20 31 PM" src="https://github.com/user-attachments/assets/3062980e-c132-44b9-a758-d3756b5343e6" />
-<img width="575" height="1280" alt="WhatsApp Image 2026-10-24 at 1 20 30 PM" src="https://github.com/user-attachments/assets/ba8d1a75-22de-4982-b4ce-ff4838c690a3" />
-<img width="575" height="1280" alt="WhatsApp Image 2026-10-24 at 1 20 29 PM" src="https://github.com/user-attachments/assets/388aff6c-e3f4-405d-acd1-f49084c319b2" />
-<img width="575" height="1280" alt="WhatsApp Image 2026-10-24 at 1 20 28 PM" src="https://github.com/user-attachments/assets/80fd7dcc-e5c2-4400-a8a1-8c15eae96398" />
-<img width="575" height="1280" alt="WhatsApp Image 2026-10-24 at 1 20 28 PM (1)" src="https://github.com/user-attachments/assets/5c72dced-1ee3-4b24-9dd2-48dd1e84d309" />
-<img width="575" height="1280" alt="WhatsApp Image 2026-10-24 at 1 20 27 PM" src="https://github.com/user-attachments/assets/d07477ce-20d6-489e-b806-c50d1acc0c7f" />
-<img width="575" height="1280" alt="WhatsApp Image 2026-10-24 at 1 20 27 PM (1)" src="https://github.com/user-attachments/assets/89ed22cd-890c-43d0-8bf6-17be23755f6b" />
-<img width="575" height="1280" alt="WhatsApp Image 2026-10-24 at 1 20 26 PM" src="https://github.com/user-attachments/assets/0bbfaa47-2933-4ffb-a30c-63e6ff8e1772" />
-<img width="575" height="1280" alt="WhatsApp Image 2026-10-24 at 1 20 26 PM (1)" src="https://github.com/user-attachments/assets/d767438d-97f3-4de2-a443-a5db0c9fcec2" />
-<img width="575" height="1280" alt="WhatsApp Image 2026-10-24 at 1 20 41 PM" src="https://github.com/user-attachments/assets/0f9d9442-aa3d-4e97-9d09-bce1f2036328" />
-<img width="575" height="1280" alt="WhatsApp Image 2026-10-24 at 1 20 41 PM (1)" src="https://github.com/user-attachments/assets/36107d5c-37bb-4e8c-839d-77a82d4b6653" />
-<img width="575" height="1280" alt="WhatsApp Image 2026-10-24 at 1 20 40 PM" src="https://github.com/user-attachments/assets/31363f5d-77ac-4a9c-a147-b16bb2028f3d" />
-<img width="575" height="1280" alt="WhatsApp Image 2026-10-24 at 1 20 40 PM (3)" src="https://github.com/user-attachments/assets/bee31a92-d9b0-4494-8d6e-1640e8e1ccb1" />
-<img width="575" height="1280" alt="WhatsApp Image 2026-10-24 at 1 20 40 PM (2)" src="https://github.com/user-attachments/assets/841d35da-c8b7-4ee4-bc4b-b691a480011d" />
-<img width="575" height="1280" alt="WhatsApp Image 2026-10-24 at 1 20 40 PM (1)" src="https://github.com/user-attachments/assets/78038f26-7567-4525-83da-9a12f37c80e3" />
-<img width="575" height="1280" alt="WhatsApp Image 2026-10-24 at 1 20 39 PM" src="https://github.com/user-attachments/assets/630c569e-ef6e-4ba4-a99d-74065f53267d" />
-<img width="575" height="1280" alt="WhatsApp Image 2026-10-24 at 1 20 38 PM" src="https://github.com/user-attachments/assets/d706bcea-887f-4e25-80db-1cda785d9479" />
-<img width="575" height="1280" alt="WhatsApp Image 2026-10-24 at 1 20 38 PM (5)" src="https://github.com/user-attachments/assets/2771352d-87ac-4455-a1f8-ad23f125d498" />
-<img width="575" height="1280" alt="WhatsApp Image 2026-10-24 at 1 20 38 PM (4)" src="https://github.com/user-attachments/assets/5299fffc-63f1-4d50-be67-4f8a2eb5011d" />
-<img width="575" height="1280" alt="WhatsApp Image 2026-10-24 at 1 20 38 PM (3)" src="https://github.com/user-attachments/assets/43829fab-2767-45f2-820b-52665769a3ea" />
+# Spectrum
 
-A new Flutter project.
+## 1. Descripción breve
+
+**Spectrum** es una app móvil social para conectar personas a partir de sus gustos musicales ("Encuentra tu frecuencia"). Cada usuario crea un perfil con sus géneros, artistas y canciones favoritas, descubre perfiles compatibles (con porcentaje de afinidad), da *Me gusta* o *Pasar*, y chatea con quienes tienen conexión mutua. Incluye minijuegos musicales (trivia, adivina la canción, completa el título) con récords y rachas, una sección *Explorar* con artistas y canciones, y ajustes de cuenta, apariencia, notificaciones y privacidad.
+
+## 2. Los 3 tipos de usuario y sus dashboards
+
+| Rol | Dashboard / funciones principales ||---|---|
+| -> **Administrador** | *Panel de administración* con contadores de usuarios totales y activos, lista de usuarios (activar/desactivar con interruptor y eliminar), *Trivias* publicadas en el banco de preguntas y *Nueva trivia* para crear preguntas (4 opciones, respuesta correcta y dificultad). Navegación inferior: Usuarios · Trivias · Nueva trivia. |
+| -> **Cliente** | Pantalla de inicio *Descubrir* (tarjetas de personas con % de compatibilidad, botones *Pasar* / *Me gusta*), *Explorar*, *Juegos*, *Chats* (conexiones mutuas) y *Perfil*. |
+| -> **Operador** | *Reportes pendientes* de moderación: cada reporte se puede **Descartar** o **Revisar**. Al revisar se elige la acción (advertir al usuario, suspender 7 días o sin infracción), se agregan notas de moderación y se registra la resolución. |
+
+El rol se elige al crear la cuenta.
+
+## 3. Manejo de estado elegido (y por qué)
+
+**Solución elegida:** `ChangeNotifier` (incluido en Flutter, sin paquetes externos), combinado con `setState` para el estado local de cada pantalla.
+
+- **Estado compartido con `ChangeNotifier`:** `AuthController` (sesión y rol del usuario) y `TriviaController` (banco de trivias).
+- **Estado local con `setState`:** indicadores de carga, filtros y búsquedas de las listas, visibilidad de la contraseña, rol y términos en el registro, y los campos de los formularios (por ejemplo, la respuesta correcta y la dificultad al crear una trivia).
+
+**Justificación:** La sesión, el rol y las trivias se necesitan en varias pantallas y deben conservarse al navegar entre ellas, por lo que viven en controladores que notifican a la interfaz cuando cambian. El estado que solo importa a una pantalla se queda en `setState`, que es lo más simple para ese caso. Se eligió una solución nativa porque es suficiente para el alcance del proyecto, separa la lógica de la interfaz y evita agregar dependencias.
+
+## 4. Cómo ejecutar la app
+
+```bash
+# 1. Clonar el repositorio
+git clone [(https://github.com/1225100360admp-byte/spectrum.git)]
+cd spectrum
+
+# 2. Instalar dependencias
+flutter pub get
+
+# 3. Ejecutar en emulador o dispositivo conectado
+flutter run
+```
+
+**Requisitos:** Flutter SDK instalado (verifica con `flutter doctor`), y un emulador Android o un dispositivo físico con depuración USB activada.
+
+**Cuentas de prueba:** 
+cliente@spectrum.com password: Cliente1234
+admin@spectrum.com password: Admin1234
+operador@spectrum.com password: Operador1234
+
+## 6. Screenshots
+
+### Splashscreen
+![Splash](screenshots/01-splash.png)
+
+### Autenticación
+![Login](screenshots/02-login.png)
+![Registro](screenshots/03-registro.png)
+
+### Dashboards
+![Dashboard Admin](screenshots/04-dashboard-admin.png)
+![Dashboard Cliente](screenshots/05-dashboard-cliente.png)
+![Dashboard Operador](screenshots/06-dashboard-operador.png)
+
+### Listas
+![Lista principal](screenshots/07-lista-principal.png)
+![Lista detalle](screenshots/08-lista-detalle.png)
+![Estado vacío](screenshots/09-lista-vacia.png)
+![Lista Administrador: trivias publicadas](screenshots/15-lista-trivias-admin.png)
+
+### Formularios
+![Formulario dominio (Cliente: preferencias musicales)](screenshots/10-formulario.png)
+![Formulario Administrador: nueva trivia](screenshots/13-formulario-admin.png)
+![Formulario Operador: revisar reporte](screenshots/14-formulario-operador.png)
+
+### Evidencia funcional
+![Foto equipo](screenshots/11-foto-equipo.png)
+![Navegación](screenshots/12-navegacion.png)
